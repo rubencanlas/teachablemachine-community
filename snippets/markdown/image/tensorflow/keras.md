@@ -1,4 +1,8 @@
 ```python
+# baybayin starter training set.
+# This is NOT complete. 
+# To do, add more samples. 
+
 import tensorflow.keras
 from PIL import Image, ImageOps
 import numpy as np
